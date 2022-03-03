@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+- resolve deprecation code
+- use map for open API examples
+
 ## [1.1.0] - 2019-05-09
 ### Added
 - Support for securitySchemes and security #15
